@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<!-- saved from url=(0029)http://timepaz.com/WhoYouAre/ -->
+<html class="gr__timepaz_com"><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+    <title>Who Are You to Me?... Take Screenshot and sent it back to me</title>
+
+    <script async="" src="./index1_files/analytics.js"></script><script src="./index1_files/jquery.min.js"></script>
+
+<meta property="og:image" content="http://www.timepaz.com/WhoYouAre/images/time.png">
+    <meta property="og:site_name" content="Timepaz">
+
+    <link rel="shortcut icon" href="http://timepaz.com/WhoYouAre/fav.png">
+    <link rel="apple-touch-icon image_src" href="http://timepaz.com/WhoYouAre/fav.png">
+
+    <link href="./index1_files/css" rel="stylesheet">
+    <link href="./index1_files/css(1)" rel="stylesheet">
+    <link href="./index1_files/love.css" rel="stylesheet">
+    <script src="./index1_files/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
+	<script src="./index1_files/script.js"></script>
+    <style type="text/css">
+      #changeText
+      {
+        font-size: 40px;
+        height: 100px;
+		color:#FFFFFF;
+      }
+
+      h1{
+        font-size: 60px;
+        color: #fff90b;
+		text-shadow:4px 4px #000000;
+
+      }
+
+      body
+      {
+      		font-family: 'Cookie', cursive;
+            /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#762faf+0,5f00ad+51,6f21af+100 */
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ff3232+0,ba2323+50,ff3232+100,ff3232+100,ff8989+100 */
+background: #ff3232; /* Old browsers */
+background: -moz-linear-gradient(left, #ff3232 0%, #ba2323 50%, #ff3232 100%, #ff3232 100%, #ff8989 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(left, #ff3232 0%,#ba2323 50%,#ff3232 100%,#ff3232 100%,#ff8989 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to right, #ff3232 0%,#ba2323 50%,#ff3232 100%,#ff3232 100%,#ff8989 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff3232', endColorstr='#ff8989',GradientType=1 ); /* IE6-9 */
+overflow-y:hidden;
+      }
+
+      .maindiv
+      {
+      	position: absolute;
+		  top: 25%;
+		  left: 50%;
+		  transform: translate(-50%, -50%);
+    display: flex;
+    flex-wrap: wrap;
+    height: 300px;
+
+      }
+      .centered {
+      	text-align: center;
+      }
+
+      #sidebarright
+      {
+width: 30%;
+      }
+
+      .container
+      {
+        /*width: 40%; */
+        position: relative;
+         margin-left: auto;
+   		 margin-right: auto;
+      }
+    </style>
+
+</head>
+<body data-gr-c-s-loaded="true">
+
+<div id="gradient" style="background: -webkit-gradient(linear, 0% 0%, 100% 0%, from(rgb(78, 153, 209)), to(rgb(62, 69, 225)));">
+
+<div class="bg_heart"><div class="heart" style="width:17px;height:17px;left:103%;background:rgba(255,87,137,1);-webkit-animation:love 13s ease;-moz-animation:love 13s ease;-ms-animation:love 13s ease;animation:love 13s ease"></div><div class="heart" style="width:45px;height:45px;left:74%;background:rgba(255,86,136,1);-webkit-animation:love 13s ease;-moz-animation:love 13s ease;-ms-animation:love 13s ease;animation:love 13s ease"></div><div class="heart" style="width:49px;height:49px;left:101%;background:rgba(255,76,126,1);-webkit-animation:love 14s ease;-moz-animation:love 14s ease;-ms-animation:love 14s ease;animation:love 14s ease"></div><div class="heart" style="width:27px;height:27px;left:80%;background:rgba(255,86,136,1);-webkit-animation:love 14s ease;-moz-animation:love 14s ease;-ms-animation:love 14s ease;animation:love 14s ease"></div><div class="heart" style="width:63px;height:63px;left:95%;background:rgba(255,94,144,1);-webkit-animation:love 13s ease;-moz-animation:love 13s ease;-ms-animation:love 13s ease;animation:love 13s ease"></div><div class="heart" style="width:4px;height:4px;left:57%;background:rgba(255,94,144,1);-webkit-animation:love 10s ease;-moz-animation:love 10s ease;-ms-animation:love 10s ease;animation:love 10s ease"></div><div class="heart" style="width:15px;height:15px;left:88%;background:rgba(255,79,104,1);-webkit-animation:love 7s ease;-moz-animation:love 7s ease;-ms-animation:love 7s ease;animation:love 7s ease"></div><div class="heart" style="width:5px;height:5px;left:128%;background:rgba(255,79,129,1);-webkit-animation:love 12s ease;-moz-animation:love 12s ease;-ms-animation:love 12s ease;animation:love 12s ease"></div><div class="heart" style="width:24px;height:24px;left:10%;background:rgba(255,97,122,1);-webkit-animation:love 6s ease;-moz-animation:love 6s ease;-ms-animation:love 6s ease;animation:love 6s ease"></div><div class="heart" style="width:14px;height:14px;left:45%;background:rgba(255,97,147,1);-webkit-animation:love 11s ease;-moz-animation:love 11s ease;-ms-animation:love 11s ease;animation:love 11s ease"></div><div class="heart" style="width:12px;height:12px;left:41%;background:rgba(255,88,113,1);-webkit-animation:love 9s ease;-moz-animation:love 9s ease;-ms-animation:love 9s ease;animation:love 9s ease"></div><div class="heart" style="width:2px;height:2px;left:49%;background:rgba(255,88,138,1);-webkit-animation:love 14s ease;-moz-animation:love 14s ease;-ms-animation:love 14s ease;animation:love 14s ease"></div><div class="heart" style="width:42px;height:42px;left:20%;background:rgba(255,94,119,1);-webkit-animation:love 9s ease;-moz-animation:love 9s ease;-ms-animation:love 9s ease;animation:love 9s ease"></div><div class="heart" style="width:32px;height:32px;left:33%;background:rgba(255,94,144,1);-webkit-animation:love 14s ease;-moz-animation:love 14s ease;-ms-animation:love 14s ease;animation:love 14s ease"></div><div class="heart" style="width:67px;height:67px;left:1%;background:rgba(255,83,108,1);-webkit-animation:love 6s ease;-moz-animation:love 6s ease;-ms-animation:love 6s ease;animation:love 6s ease"></div><div class="heart" style="width:57px;height:57px;left:13%;background:rgba(255,83,133,1);-webkit-animation:love 11s ease;-moz-animation:love 11s ease;-ms-animation:love 11s ease;animation:love 11s ease"></div><div class="heart" style="width:49px;height:49px;left:25%;background:rgba(255,76,101,1);-webkit-animation:love 8s ease;-moz-animation:love 8s ease;-ms-animation:love 8s ease;animation:love 8s ease"></div><div class="heart" style="width:39px;height:39px;left:44%;background:rgba(255,76,126,1);-webkit-animation:love 13s ease;-moz-animation:love 13s ease;-ms-animation:love 13s ease;animation:love 13s ease"></div><div class="heart" style="width:73px;height:73px;left:94%;background:rgba(255,91,116,1);-webkit-animation:love 6s ease;-moz-animation:love 6s ease;-ms-animation:love 6s ease;animation:love 6s ease"></div><div class="heart" style="width:63px;height:63px;left:113%;background:rgba(255,91,141,1);-webkit-animation:love 11s ease;-moz-animation:love 11s ease;-ms-animation:love 11s ease;animation:love 11s ease"></div></div>
+<center>
+<div class="maindiv centered">
+
+<div class="container" style="text-align:center;">
+
+<h1>The closest Friend<br><br> of mine!</h1>
+<div id="changeText">Honey</div>
+<div>
+
+</div>
+				<!-- wpdare small rect mob -->
+				<ins class="adsbygoogle" style="display:inline-block;width:320px;height:100px" data-ad-client="ca-pub-5514310690442376" data-ad-slot="8143524043"></ins>
+				<div class="content">
+<h2>Take Screenshot and sent it back to me</h2>
+
+<div class="facebook"> <a href="https://www.facebook.com/MuseONindia/" target="_blank"><img src="./index1_files/facebook.png"></a>
+  <a href="http://timepaz.com/EyeTest/" target="_blank"><img style="margin-left:10px;" src="./index1_files/eye.png"></a>
+</div><!--facebook-->
+
+<p style="font-family: &#39;Century Gothic&#39;; color:#EFDE00; font-size:11px; padding-bottom:15px;">Powered by <a style="color:#EFDE00; font-size:15px; text-decoration:none;" href="http://museon.in/" target="_blank">MuseON</a></p>
+
+
+
+
+</div><!--content-->
+
+
+</div>
+<!-- <div id="sidebarright">
+ -->
+
+
+</div>
+
+
+
+
+<div>
+</div>
+</center></div>
+
+ <!--colour-->
+
+
+
+
+
+
+    <script type="text/javascript">
+    var text = [
+    "Nikki Gupta",
+    "Yashasvi Shukla",
+    "Anjali Rai",
+        "Anjali Rai",
+            "Anjali Rai",
+                "Anjali Rai",
+    "Chandani Singh",
+    "Aprajita Singh",
+    "Sakshi Agarwal",
+        "Anjali Rai",
+            "Anjali Rai",
+                "Anjali Rai",
+
+    "Ritika Verma",
+    "Nikki Gupta",
+        "Anjali Rai",
+    "Yashasvi Shukla",
+    "Anjali Rai",
+        "Anjali Rai",
+    "Chandani Singh",
+    "Aprajita Singh",
+    "Sakshi Agarwal",
+    "Ritika Verma",
+        "Anjali Rai",    "Anjali Rai"
+
+	];
+    var counter = 0;
+    var elem = document.getElementById("changeText");
+    setInterval(change, 0);
+    function change() {
+     elem.innerHTML = text[counter];
+        counter++;
+        if(counter >= text.length) { counter = 0; }
+    }
+    </script>
+
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ ga('create', 'UA-99559214-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<script>
+
+var colors = new Array(
+  [62,35,255],
+  [60,255,60],
+  [255,35,98],
+  [45,175,230],
+  [255,0,255],
+  [255,128,0]);
+
+var step = 0;
+//color table indices for:
+// current color left
+// next color left
+// current color right
+// next color right
+var colorIndices = [0,1,2,3];
+
+//transition speed
+var gradientSpeed = 0.002;
+
+function updateGradient()
+{
+
+  if ( $===undefined ) return;
+
+var c0_0 = colors[colorIndices[0]];
+var c0_1 = colors[colorIndices[1]];
+var c1_0 = colors[colorIndices[2]];
+var c1_1 = colors[colorIndices[3]];
+
+var istep = 1 - step;
+var r1 = Math.round(istep * c0_0[0] + step * c0_1[0]);
+var g1 = Math.round(istep * c0_0[1] + step * c0_1[1]);
+var b1 = Math.round(istep * c0_0[2] + step * c0_1[2]);
+var color1 = "rgb("+r1+","+g1+","+b1+")";
+
+var r2 = Math.round(istep * c1_0[0] + step * c1_1[0]);
+var g2 = Math.round(istep * c1_0[1] + step * c1_1[1]);
+var b2 = Math.round(istep * c1_0[2] + step * c1_1[2]);
+var color2 = "rgb("+r2+","+g2+","+b2+")";
+
+ $('#gradient').css({
+   background: "-webkit-gradient(linear, left top, right top, from("+color1+"), to("+color2+"))"}).css({
+    background: "-moz-linear-gradient(left, "+color1+" 0%, "+color2+" 100%)"});
+
+  step += gradientSpeed;
+  if ( step >= 1 )
+  {
+    step %= 1;
+    colorIndices[0] = colorIndices[1];
+    colorIndices[2] = colorIndices[3];
+
+    //pick two new target color indices
+    //do not pick the same as the current one
+    colorIndices[1] = ( colorIndices[1] + Math.floor( 1 + Math.random() * (colors.length - 1))) % colors.length;
+    colorIndices[3] = ( colorIndices[3] + Math.floor( 1 + Math.random() * (colors.length - 1))) % colors.length;
+
+  }
+}
+
+setInterval(updateGradient,10);
+
+</script>
+
+
+
+
+</body></html>

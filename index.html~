@@ -4,7 +4,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
     <title>Who Are You to Me?... Take Screenshot and sent it back to me</title>
-    
+
     <script async="" src="./index_files/analytics.js"></script><script src="./index_files/jquery.min.js"></script>
 
 <meta property="og:image" content="http://www.timepaz.com/WhoYouAre/images/time.png">
@@ -30,9 +30,9 @@
         font-size: 60px;
         color: #fff90b;
 		text-shadow:4px 4px #000000;
-		
+
       }
-      
+
       body
       {
       		font-family: 'Cookie', cursive;
@@ -74,26 +74,28 @@ width: 30%;
    		 margin-right: auto;
       }
     </style>
-	
+
 </head>
 <body data-gr-c-s-loaded="true">
 
-<div id="gradient" style="background: -webkit-gradient(linear, 0% 0%, 100% 0%, from(rgb(255, 97, 33)), to(rgb(255, 43, 170)));">
+<div id="gradient" style="background: -webkit-gradient(linear, 0% 0%, 100% 0%, from(rgb(53, 173, 221)), to(rgb(248, 10, 248)));">
 
-<div class="bg_heart"><div class="heart" style="width:48px;height:48px;left:26%;background:rgba(255,85,135,1);-webkit-animation:love 12s ease;-moz-animation:love 12s ease;-ms-animation:love 12s ease;animation:love 12s ease"></div><div class="heart" style="width:22px;height:22px;left:81%;background:rgba(255,90,140,1);-webkit-animation:love 12s ease;-moz-animation:love 12s ease;-ms-animation:love 12s ease;animation:love 12s ease"></div><div class="heart" style="width:43px;height:43px;left:86%;background:rgba(255,93,143,1);-webkit-animation:love 10s ease;-moz-animation:love 10s ease;-ms-animation:love 10s ease;animation:love 10s ease"></div><div class="heart" style="width:49px;height:49px;left:74%;background:rgba(255,92,142,1);-webkit-animation:love 11s ease;-moz-animation:love 11s ease;-ms-animation:love 11s ease;animation:love 11s ease"></div><div class="heart" style="width:29px;height:29px;left:80%;background:rgba(255,76,101,1);-webkit-animation:love 9s ease;-moz-animation:love 9s ease;-ms-animation:love 9s ease;animation:love 9s ease"></div><div class="heart" style="width:19px;height:19px;left:103%;background:rgba(255,76,126,1);-webkit-animation:love 14s ease;-moz-animation:love 14s ease;-ms-animation:love 14s ease;animation:love 14s ease"></div><div class="heart" style="width:13px;height:13px;left:98%;background:rgba(255,83,108,1);-webkit-animation:love 8s ease;-moz-animation:love 8s ease;-ms-animation:love 8s ease;animation:love 8s ease"></div><div class="heart" style="width:3px;height:3px;left:115%;background:rgba(255,83,133,1);-webkit-animation:love 13s ease;-moz-animation:love 13s ease;-ms-animation:love 13s ease;animation:love 13s ease"></div><div class="heart" style="width:12px;height:12px;left:70%;background:rgba(255,88,138,1);-webkit-animation:love 10s ease;-moz-animation:love 10s ease;-ms-animation:love 10s ease;animation:love 10s ease"></div><div class="heart" style="width:26px;height:26px;left:68%;background:rgba(255,90,115,1);-webkit-animation:love 9s ease;-moz-animation:love 9s ease;-ms-animation:love 9s ease;animation:love 9s ease"></div><div class="heart" style="width:16px;height:16px;left:85%;background:rgba(255,90,140,1);-webkit-animation:love 14s ease;-moz-animation:love 14s ease;-ms-animation:love 14s ease;animation:love 14s ease"></div><div class="heart" style="width:73px;height:73px;left:72%;background:rgba(255,93,118,1);-webkit-animation:love 9s ease;-moz-animation:love 9s ease;-ms-animation:love 9s ease;animation:love 9s ease"></div><div class="heart" style="width:63px;height:63px;left:85%;background:rgba(255,93,143,1);-webkit-animation:love 14s ease;-moz-animation:love 14s ease;-ms-animation:love 14s ease;animation:love 14s ease"></div><div class="heart" style="width:60px;height:60px;left:35%;background:rgba(255,98,123,1);-webkit-animation:love 7s ease;-moz-animation:love 7s ease;-ms-animation:love 7s ease;animation:love 7s ease"></div><div class="heart" style="width:50px;height:50px;left:63%;background:rgba(255,98,148,1);-webkit-animation:love 12s ease;-moz-animation:love 12s ease;-ms-animation:love 12s ease;animation:love 12s ease"></div><div class="heart" style="width:68px;height:68px;left:20%;background:rgba(255,92,117,1);-webkit-animation:love 7s ease;-moz-animation:love 7s ease;-ms-animation:love 7s ease;animation:love 7s ease"></div><div class="heart" style="width:58px;height:58px;left:31%;background:rgba(255,92,142,1);-webkit-animation:love 12s ease;-moz-animation:love 12s ease;-ms-animation:love 12s ease;animation:love 12s ease"></div><div class="heart" style="width:62px;height:62px;left:33%;background:rgba(255,82,107,1);-webkit-animation:love 8s ease;-moz-animation:love 8s ease;-ms-animation:love 8s ease;animation:love 8s ease"></div><div class="heart" style="width:52px;height:52px;left:36%;background:rgba(255,82,132,1);-webkit-animation:love 13s ease;-moz-animation:love 13s ease;-ms-animation:love 13s ease;animation:love 13s ease"></div></div>
+<div class="bg_heart"><div class="heart" style="width:6px;height:6px;left:32%;background:rgba(255,84,134,1);-webkit-animation:love 14s ease;-moz-animation:love 14s ease;-ms-animation:love 14s ease;animation:love 14s ease"></div><div class="heart" style="width:55px;height:55px;left:11%;background:rgba(255,97,122,1);-webkit-animation:love 9s ease;-moz-animation:love 9s ease;-ms-animation:love 9s ease;animation:love 9s ease"></div><div class="heart" style="width:45px;height:45px;left:26%;background:rgba(255,97,147,1);-webkit-animation:love 14s ease;-moz-animation:love 14s ease;-ms-animation:love 14s ease;animation:love 14s ease"></div><div class="heart" style="width:29px;height:29px;left:104%;background:rgba(255,76,126,1);-webkit-animation:love 12s ease;-moz-animation:love 12s ease;-ms-animation:love 12s ease;animation:love 12s ease"></div><div class="heart" style="width:37px;height:37px;left:29%;background:rgba(255,77,102,1);-webkit-animation:love 7s ease;-moz-animation:love 7s ease;-ms-animation:love 7s ease;animation:love 7s ease"></div><div class="heart" style="width:27px;height:27px;left:67%;background:rgba(255,77,127,1);-webkit-animation:love 12s ease;-moz-animation:love 12s ease;-ms-animation:love 12s ease;animation:love 12s ease"></div><div class="heart" style="width:61px;height:61px;left:70%;background:rgba(255,84,109,1);-webkit-animation:love 9s ease;-moz-animation:love 9s ease;-ms-animation:love 9s ease;animation:love 9s ease"></div><div class="heart" style="width:51px;height:51px;left:108%;background:rgba(255,84,134,1);-webkit-animation:love 14s ease;-moz-animation:love 14s ease;-ms-animation:love 14s ease;animation:love 14s ease"></div><div class="heart" style="width:27px;height:27px;left:35%;background:rgba(255,82,107,1);-webkit-animation:love 5s ease;-moz-animation:love 5s ease;-ms-animation:love 5s ease;animation:love 5s ease"></div><div class="heart" style="width:17px;height:17px;left:62%;background:rgba(255,82,132,1);-webkit-animation:love 10s ease;-moz-animation:love 10s ease;-ms-animation:love 10s ease;animation:love 10s ease"></div><div class="heart" style="width:31px;height:31px;left:10%;background:rgba(255,94,119,1);-webkit-animation:love 5s ease;-moz-animation:love 5s ease;-ms-animation:love 5s ease;animation:love 5s ease"></div><div class="heart" style="width:21px;height:21px;left:11%;background:rgba(255,94,144,1);-webkit-animation:love 10s ease;-moz-animation:love 10s ease;-ms-animation:love 10s ease;animation:love 10s ease"></div><div class="heart" style="width:11px;height:11px;left:36%;background:rgba(255,77,102,1);-webkit-animation:love 7s ease;-moz-animation:love 7s ease;-ms-animation:love 7s ease;animation:love 7s ease"></div><div class="heart" style="width:1px;height:1px;left:63%;background:rgba(255,77,127,1);-webkit-animation:love 12s ease;-moz-animation:love 12s ease;-ms-animation:love 12s ease;animation:love 12s ease"></div><div class="heart" style="width:61px;height:61px;left:45%;background:rgba(255,90,115,1);-webkit-animation:love 6s ease;-moz-animation:love 6s ease;-ms-animation:love 6s ease;animation:love 6s ease"></div><div class="heart" style="width:51px;height:51px;left:65%;background:rgba(255,90,140,1);-webkit-animation:love 11s ease;-moz-animation:love 11s ease;-ms-animation:love 11s ease;animation:love 11s ease"></div><div class="heart" style="width:18px;height:18px;left:51%;background:rgba(255,90,115,1);-webkit-animation:love 6s ease;-moz-animation:love 6s ease;-ms-animation:love 6s ease;animation:love 6s ease"></div><div class="heart" style="width:8px;height:8px;left:59%;background:rgba(255,90,140,1);-webkit-animation:love 11s ease;-moz-animation:love 11s ease;-ms-animation:love 11s ease;animation:love 11s ease"></div></div>
 <center>
 <div class="maindiv centered">
 
 <div class="container" style="text-align:center;">
 
-<h1>I am Your</h1>
-<div id="changeText">Neighbour</div>
+<h1>Let see whom you <br><br>love the most!</h1>
+<a href="0/index.html">
+<div id=""><img src="fbconnect.png" alt="facebook" height="30" width="142"></div></a>
 <div>
-   
+
 </div>
 				<!-- wpdare small rect mob -->
 				<ins class="adsbygoogle" style="display:inline-block;width:320px;height:100px" data-ad-client="ca-pub-5514310690442376" data-ad-slot="8143524043"></ins>
 				<div class="content">
+<h2>Connect with Facebook to get the list of your friends and then </h2>
 <h2>Take Screenshot and sent it back to me</h2>
 
 <div class="facebook"> <a href="https://www.facebook.com/MuseONindia/" target="_blank"><img src="./index_files/facebook.png"></a>
@@ -112,7 +114,7 @@ width: 30%;
 <!-- <div id="sidebarright">
  -->
 
-    
+
 </div>
 
 
@@ -127,7 +129,7 @@ width: 30%;
 
 
 
-        
+
 
     <script type="text/javascript">
     var text = [
@@ -136,7 +138,7 @@ width: 30%;
     "Bf/Gf",
     "Brother/Sister",
     "Granddad/Grandmom",
-    "Besty", 
+    "Besty",
     "Worst Enemy",
     "Crush",
     "Date",
@@ -154,15 +156,15 @@ width: 30%;
 	"Well Wisher",
 	"Chat Friend",
 	"Friend Forever",
-	
-	
-    
+
+
+
 	];
     var counter = 0;
     var elem = document.getElementById("changeText");
     setInterval(change, 0);
     function change() {
-     elem.innerHTML = text[counter];
+
         counter++;
         if(counter >= text.length) { counter = 0; }
     }
@@ -190,7 +192,7 @@ var colors = new Array(
   [255,128,0]);
 
 var step = 0;
-//color table indices for: 
+//color table indices for:
 // current color left
 // next color left
 // current color right
@@ -202,9 +204,9 @@ var gradientSpeed = 0.002;
 
 function updateGradient()
 {
-  
+
   if ( $===undefined ) return;
-  
+
 var c0_0 = colors[colorIndices[0]];
 var c0_1 = colors[colorIndices[1]];
 var c1_0 = colors[colorIndices[2]];
@@ -224,19 +226,19 @@ var color2 = "rgb("+r2+","+g2+","+b2+")";
  $('#gradient').css({
    background: "-webkit-gradient(linear, left top, right top, from("+color1+"), to("+color2+"))"}).css({
     background: "-moz-linear-gradient(left, "+color1+" 0%, "+color2+" 100%)"});
-  
+
   step += gradientSpeed;
   if ( step >= 1 )
   {
     step %= 1;
     colorIndices[0] = colorIndices[1];
     colorIndices[2] = colorIndices[3];
-    
+
     //pick two new target color indices
     //do not pick the same as the current one
     colorIndices[1] = ( colorIndices[1] + Math.floor( 1 + Math.random() * (colors.length - 1))) % colors.length;
     colorIndices[3] = ( colorIndices[3] + Math.floor( 1 + Math.random() * (colors.length - 1))) % colors.length;
-    
+
   }
 }
 
