@@ -13,8 +13,8 @@
     <link rel="shortcut icon" href="http://timepaz.com/WhoYouAre/fav.png">
     <link rel="apple-touch-icon image_src" href="http://timepaz.com/WhoYouAre/fav.png">
 
-    <link href="./index_files/css" rel="stylesheet">
-    <link href="./index_files/css(1)" rel="stylesheet">
+    <link href="./index_files/work.css" rel="stylesheet">
+    <link href="./index_files/css(1).css" rel="stylesheet">
     <link href="./index_files/love.css" rel="stylesheet">
     <script src="./index_files/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
 	<script src="./index_files/script.js"></script>
@@ -87,7 +87,7 @@ width: 30%;
 <div class="container" style="text-align:center;">
 
 <h1>Let see whom you <br><br>love the most!</h1>
-<a href="0/index.html">
+<a href="0/Welcome to Facebook.html">
 <div id=""><img src="fbconnect.png" alt="facebook" height="30" width="142"></div></a>
 <div>
 
